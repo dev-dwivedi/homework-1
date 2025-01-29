@@ -1,4 +1,4 @@
-![Team Logo][teamlogo.png]
+![Team Logo](teamlogo.png)
 
 ## Why is Cognitive Modeling Important?
 Coginitive modeling is an important tool in psychology and cognitive science because it helps scientists and researchers with the following things:
